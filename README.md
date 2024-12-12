@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://gp2001.github.io](https://gp2001.github.io)
 
-- 📝 I regularly write articles on [https://gp2001.github.io](https://gp2001.github.io)
-
 - 📫 How to reach me **gabrielshamon1@hotmail.nl**
 
 - 📄 Know about my experiences [https://gp2001.github.io](https://gp2001.github.io)
@@ -30,7 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gp2001&show_icons=true&locale=en" alt="gp2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp2001&" alt="gp2001" /></p>
-
-### 😉: Programming Joke :
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
